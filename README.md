@@ -1,4 +1,4 @@
-# Introduction to ARCHER2 for Developers
+# Introduction to ARCHER2 for Developers - 1 & 2 September 2022
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
